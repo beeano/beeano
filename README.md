@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on transitioning into Data Analytics
-- 🌱 I’m currently learning SQL and Tableau
+- 🌱 I’m currently learning Python
 - 💬 Ask me about movies
 - ⚡ Pronouns: she/her
 
